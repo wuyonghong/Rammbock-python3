@@ -21,10 +21,6 @@ You need to have Robot Framework installed as a precondition.
 Installation
 ~~~~~~~~~~~~
 
--  With PIP Installer::
-
-      pip install robotframework-rammbock
-
 - With Setup.py Download and extract .zip or .tar.gz. Execute command in extracted folder::
 
       python setup.py install
